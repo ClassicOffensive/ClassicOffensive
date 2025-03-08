@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="32px"
+   height="32px"
+   viewBox="0 0 32 32"
+   enable-background="new 0 0 32 32"
+   xml:space="preserve"
+   sodipodi:docname="moddb.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata881"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs879" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview877"
+   showgrid="false"
+   inkscape:zoom="9.391262"
+   inkscape:cx="30.17741"
+   inkscape:cy="15.015174"
+   inkscape:window-x="1912"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+<radialGradient
+   id="gradient_1_"
+   cx="-2503.1396"
+   cy="1807.3066"
+   r="162.7603"
+   gradientTransform="matrix(-0.1526 -0.0598 -0.0716 0.1829 -234.1926 -471.5842)"
+   gradientUnits="userSpaceOnUse">
+	<stop
+   offset="0"
+   style="stop-color:#AA1A1A"
+   id="stop851" />
+	<stop
+   offset="0.5518"
+   style="stop-color:#5C0C0C"
+   id="stop853" />
+	<stop
+   offset="0.7632"
+   style="stop-color:#2A0303"
+   id="stop855" />
+	<stop
+   offset="0.9261"
+   style="stop-color:#170000"
+   id="stop857" />
+</radialGradient>
+
+
+
+
+<path
+   style="fill:#ffffff;stroke-width:0.11610346"
+   d="m 12.690712,29.920553 c -0.168036,-0.09305 -0.340933,-0.261466 -0.384216,-0.374261 -0.04328,-0.1128 -0.07228,-3.418974 -0.06442,-7.34705 0.0079,-3.928082 0.01095,-7.198473 0.0069,-7.267539 -0.0041,-0.06907 -0.262284,-0.290742 -0.573819,-0.492608 C 11.363584,14.237224 10.792919,13.734498 10.406976,13.321929 7.2367717,9.9329717 8.2554797,4.3872514 12.432559,2.2948771 c 0.328557,-0.1645812 0.628976,-0.2992386 0.667594,-0.2992386 0.03862,0 0.07022,1.5331766 0.07022,3.4070581 0,3.1532511 0.01582,3.4213681 0.212324,3.5992091 0.180058,0.162948 0.512541,0.192149 2.187971,0.192149 1.766526,0 1.995987,-0.02249 2.167798,-0.212324 0.169554,-0.187356 0.192149,-0.610608 0.192149,-3.5992072 0,-2.4043204 0.03739,-3.386885 0.128878,-3.386885 0.383563,0 1.652583,0.8437708 2.438781,1.6215426 1.422652,1.4074058 2.07648,2.9690808 2.07648,4.9596946 0,2.2933423 -1.008578,4.3284903 -2.788826,5.6274043 l -0.810381,0.591269 v 7.345443 c 0,7.057138 -0.0087,7.356202 -0.22177,7.61954 -0.220619,0.272671 -0.236126,0.274235 -2.989663,0.301645 -2.245586,0.02236 -2.825549,-0.0044 -3.073414,-0.141624 z"
+   id="path860"
+   inkscape:connector-curvature="0" /></svg>
